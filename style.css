@@ -1,0 +1,13 @@
+#list-infinite-scroll {
+    height: 600px;
+    overflow-y: auto;
+}
+
+#list-infinite-scroll::-webkit-scrollbar {
+    display: none;
+}
+
+#list-infinite-scroll ul {
+    list-style-type: none;
+    font-size: 40px;
+}
