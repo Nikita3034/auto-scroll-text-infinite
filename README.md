@@ -1,4 +1,4 @@
-# Infinite auto scroll text on js.
+# Infinite loop auto scroll list on js.
 
 ### You can change the height of the div, add/remove values in the list - the script will automatically adjust to all changes.
 
